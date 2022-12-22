@@ -1,1 +1,0 @@
-#Project created by tushar on linear regression
